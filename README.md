@@ -29,7 +29,7 @@
 ![Матрица корреляций](images_clr/fig_final_corr_heatmap.png)
 
 ## Структура проекта
-- `EDA_CLR.ipynb` — Jupyter Notebook с полным кодом и подробным анализом признаков и их вазимодействий.
+- [`EDA_CLR.ipynb`](https://colab.research.google.com/drive/1fibfLGodf2MUqZyAgBypvrotgTQulosO?usp=sharing) — Jupyter Notebook с полным кодом и подробным анализом признаков и их вазимодействий.
 - `images_clr/` — папка с визуализациями (30 графиков).
 - `data/` — исходный датасет.
 
